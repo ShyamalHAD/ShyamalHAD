@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
+I'm Shyamal, a Full Stack Software Engineer at Scicom MSC.
 
-<!--
-**ShyamalHAD/ShyamalHAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently building robust web apps with Java, Angular, and modern frameworks
 
-Here are some ideas to get you started:
+🌱 Learning Angular 19 and mastering UI/UX with Angular Materials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Designing scalable APIs for educational platforms
+
+💬 Ask me about Java, API design, or frontend development best practices
+
+🤝 Open to collaboration and new challenges
+
+Thanks for stopping by! 🚀
