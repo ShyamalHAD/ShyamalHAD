@@ -4,7 +4,7 @@
 
 <p align="left">
   Hello there! I'm a dedicated full stack developer specializing in building robust, scalable, and user-centric web applications.<br>
-  My core expertise lies in Java (Spring Boot), React, and Angular, and I thrive on creating seamless digital experiences using modern frameworks and best practices.<br>
+  My core expertise lies in <strong>Java (Spring Boot), React, and Angular</strong>, and I thrive on creating seamless digital experiences using modern frameworks and best practices.<br>
   <br>
   I enjoy solving complex problems, collaborating with diverse teams, and constantly learning new technologies to stay ahead in the rapidly evolving tech landscape.<br>
   <br>
