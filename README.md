@@ -87,7 +87,7 @@
 <br>
 
 <p align="left">
-  <strong>🌱 Currently Learning:</strong> Angular 19 & Angular Materials for advanced UI development<br>
-  <strong>🔭 Recent Focus:</strong> Educational system API design, scalable architectures, and best practices in Java and web development<br>
-  <strong>💬 Ask me about:</strong> Java, Spring Boot, React, Angular, API design, and full stack web development<br>
+  <strong> Currently Learning:</strong> Angular 19 & Angular Materials for advanced UI development<br>
+  <strong> Recent Focus:</strong> Educational system API design, scalable architectures, and best practices in Java and web development<br>
+  <strong> Ask me about:</strong> Java, Spring Boot, React, Angular, API design, and full stack web development<br>
 </p>
