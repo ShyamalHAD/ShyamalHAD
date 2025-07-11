@@ -2,7 +2,7 @@
 <h3 aling="left"> University of Colombo School of Computing &nbsp;&nbsp;|&nbsp;&nbsp; Scicom Lanka - Pvt Ltd
 </h3>
 
-<p align="right">
+<p align="left">
   Hello there! I'm a dedicated full stack developer specializing in building robust, scalable, and user-centric web applications.<br>
   My core expertise lies in <strong>Java (Spring Boot), React, and Angular</strong>, and I thrive on creating seamless digital experiences using modern frameworks and best practices.<br>
   <br>
